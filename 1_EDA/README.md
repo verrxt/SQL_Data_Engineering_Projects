@@ -69,9 +69,9 @@ The dataset is structured as a **star schema**, enabling efficient joins between
 
 ```text
 1_EDA/
-├── 01_demand_analysis.sql
-├── 02_salary_analysis.sql
-├── 03_skill_optimization.sql
+├── 01_top_demanded_skills.sql
+├── 02_top_paying_skills.sql
+├── 03_optimal_skills.sql
 └── README.md
 ```
 
@@ -126,9 +126,9 @@ Each step moves from raw counts → compensation → decision-oriented insight.
 
 ## 📌 Key Queries
 
-- [`01_demand_analysis.sql`](01_demand_analysis.sql) → Skill demand analysis  
-- [`02_salary_analysis.sql`](02_salary_analysis.sql) → Salary insights  
-- [`03_skill_optimization.sql`](03_skill_optimization.sql) → Combined scoring model  
+- [`01_top_demanded_skills.sql`](01_top_demanded_skills.sql) → Skill demand analysis  
+- [`02_top_paying_skills.sql`](02_top_paying_skills.sql) → Salary insights  
+- [`03_optimal_skills.sql`](03_optimal_skills.sql) → Combined scoring model  
 
 ---
 
