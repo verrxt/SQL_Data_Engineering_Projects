@@ -1,6 +1,6 @@
 # 🔍 Exploratory Data Analysis (SQL) — Job Market Breakdown
 
-![EDA Project Overview](../Images\EDA.png)
+![EDA Project Overview](../Images/EDA.png)
 
 A SQL-based analysis of the data engineer job market, focused on identifying **which skills actually matter** — not just which ones appear most frequently.
 
@@ -42,7 +42,7 @@ This project answers:
 
 The dataset is structured as a **star schema**, enabling efficient joins between job postings and their associated skills.
 
-![Data Warehouse Schema](../Images\Data_Warehouse.png)
+![Data Warehouse Schema](../Images/Data_Warehouse.png)
 
 ### Data Model
 
