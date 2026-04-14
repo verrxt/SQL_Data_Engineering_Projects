@@ -126,9 +126,9 @@ Each step moves from raw counts → compensation → decision-oriented insight.
 
 ## 📌 Key Queries
 
-- [`01_demand_analysis.sql`](.\01_demand_analysis.sql) → Skill demand analysis  
-- [`02_salary_analysis.sql`](.\02_salary_analysis.sql) → Salary insights  
-- [`03_skill_optimization.sql`](.\03_skill_optimization.sql) → Combined scoring model  
+- [`01_demand_analysis.sql`](01_demand_analysis.sql) → Skill demand analysis  
+- [`02_salary_analysis.sql`](02_salary_analysis.sql) → Salary insights  
+- [`03_skill_optimization.sql`](03_skill_optimization.sql) → Combined scoring model  
 
 ---
 
